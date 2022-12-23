@@ -1,0 +1,22 @@
+{
+  "name": "electronsoundboard",
+  "version": "1.0.0",
+  "description": "j",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/some-du6e/electron-soundboard.git"
+  },
+  "keywords": [
+    "soundboard"
+  ],
+  "author": "some-du6e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/some-du6e/electron-soundboard/issues"
+  },
+  "homepage": "https://github.com/some-du6e/electron-soundboard#readme"
+}
